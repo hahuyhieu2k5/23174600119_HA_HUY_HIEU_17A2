@@ -1,0 +1,23 @@
+Phần ảnh chạy chương trình em để chung với file code, không cần để riêng folder như vậy. Cô khó chấm!
+
+- Bài 1: 
+Nếu chương trình khi em cho vòng lặp trước điều kiện, nếu cô chọn n = -1 thì vòng lặp sẽ không thực hiện và kết quả in ra tổng bằng 0. Chứ không phải vui lòng nhập lại
+Điểm bài tập: 0.75
+
+- Bài 2: 
+a) đúng
+b) đúng
+Điểm bài tập: 2.0
+
+- Bài 3:
+a) đúng
+b) đúng
+c) sử dụng list, kiến thức vượt ngoài kiến thức lab 1,2,3
+d) trống
+e) trống
+Điểm bài tập: 2.5
+
+- Bài 4: đây không phải nửa hình trên nữa mà là nửa bên trái
+Điểm bài tập: 0.25
+
+Tổng điểm bài tập lab 3: 5.5

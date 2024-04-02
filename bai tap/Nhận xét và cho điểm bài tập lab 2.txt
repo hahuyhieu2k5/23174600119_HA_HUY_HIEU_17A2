@@ -1,0 +1,32 @@
+- Bài 1: Trường hợp a = 0 và b = 0, phương trình có vô số nghiệm chứ không phải nghiệm x = 0
+Điểm bài tập: 0.75
+
+- Bài 2: Nếu số a nhập vào > 1000, ví dụ 18492 thì chữ số hàng nghìn là 18, trong khi đáp án đúng là 8
+Khi a < 1000 thì kết luận là không có chữ số hàng nghìn
+Điểm bài tập: 0.5
+
+- Bài 3: sử dụng dictionary, kiến thức vượt ngoài kiến thức lab 1,2
+Điểm bài tập: 0.5
+
+- Bài 4: đúng
+Điểm bài tập: 1.0 
+
+- Bài 5: đúng
+Điểm bài tập: 1.0 
+
+- Bài 6: nếu sử dụng dấu >= thì sẽ gặp trường hợp 3 số bằng nhau, vậy số lớn thứ 2 là số nào?
+Điểm bài tập: 0.75
+
+- Bài 7: đúng
+Điểm bài tập: 1.0 
+
+- Bài 8: trường hợp a1 = a2, nếu b1 = b2 thì hai đường thẳng sẽ trùng nhau chứ không song song
+Điểm bài tập: 0.5
+
+- Bài 9: đúng
+Điểm bài tập: 1.0 
+
+- Bài 10: đúng
+Điểm bài tập: 1.0
+
+Tổng điểm bài tập lab 2: 8.0
