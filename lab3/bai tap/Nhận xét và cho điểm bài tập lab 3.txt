@@ -1,4 +1,5 @@
 Phần ảnh chạy chương trình em để chung với file code, không cần để riêng folder như vậy. Cô khó chấm!
+Toàn bộ đoạn code giống y hệt bài của bạn Trần Thị Thu Huyền!
 
 - Bài 1: 
 Nếu chương trình khi em cho vòng lặp trước điều kiện, nếu cô chọn n = -1 thì vòng lặp sẽ không thực hiện và kết quả in ra tổng bằng 0. Chứ không phải vui lòng nhập lại
@@ -20,4 +21,4 @@ e) trống
 - Bài 4: đây không phải nửa hình trên nữa mà là nửa bên trái
 Điểm bài tập: 0.25
 
-Tổng điểm bài tập lab 3: 5.5
+Tổng điểm bài tập lab 3: 5.5 : 2 = 2.75
